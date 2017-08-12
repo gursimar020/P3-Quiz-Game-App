@@ -1,0 +1,46 @@
+<resources>
+
+    <string name="app_name">Quiz Game</string>
+    <string name="name_edit_text">Name</string>
+    <string name="age_edit_text">Age</string>
+    <string name="email">Email</string>
+
+    <string name="Q1">1. 2010 Commonwealth Games held in ? </string>
+    <string name="ans">Answer</string>
+
+    <string name="Q2">2. The term “Googly” is associated with ? </string>
+    <string name="a_2">Cricket</string>
+    <string name="b_2">Football</string>
+    <string name="c_2">Badminton</string>
+    <string name="d_2">Hockey</string>
+
+    <string name="Q3">3. India first took part in the olympic games in the year ? </string>
+    <string name="a_3">1938</string>
+    <string name="b_3">1920</string>
+    <string name="c_3">1930</string>
+    <string name="d_3">1974</string>
+
+    <string name="Q4">4. Ice Hockey the national sport of Canada ? </string>
+    <string name="a_4">True</string>
+    <string name="b_4">False</string>
+
+    <string name="Q5">5. Which Country has won Cricket world cup for the maximum number of times ? </string>
+
+    <string name="Q6">6. Is there any contact allowed between players in Basket Ball ? </string>
+    <string name="a_6">Yes</string>
+    <string name="b_6">No</string>
+
+    <string name="Q7">7. What is it called when a player scores a point in Basket Ball ? </string>
+    <string name="a_7">Goal</string>
+    <string name="b_7">A Basket</string>
+    <string name="c_7">Touch Down</string>
+    <string name="d_7">Home Run</string>
+
+    <string name="Q8">8. (Multiple Choice) In which game Ball is used ? </string>
+    <string name="a_8">Cricket</string>
+    <string name="b_8">Chess</string>
+    <string name="c_8">Swimming</string>
+    <string name="d_8">Football</string>
+
+    <string name="submit">Submit</string>
+</resources>
